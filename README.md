@@ -139,12 +139,13 @@ The system successfully:
 
 ### Original Image
 
-<img width="805" height="405" alt="image" src="https://github.com/user-attachments/assets/2a30ccbd-78f8-4b6a-ac7f-0515d5be0900" />
+<img width="716" height="362" alt="image" src="https://github.com/user-attachments/assets/7b1cc3e5-d199-4e33-a4b2-f2e0601d076e" />
+
 
 
 ### Output Image
 
-<img width="802" height="401" alt="image" src="https://github.com/user-attachments/assets/8d8166ed-774a-4870-b368-9115889dc5cd" />
+<img width="647" height="357" alt="image" src="https://github.com/user-attachments/assets/de70261a-3840-40be-b6e0-ac98f1f9583e" />
 
 
 
